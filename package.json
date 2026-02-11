@@ -1,0 +1,22 @@
+{
+  "name": "astro-static",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.17.1"
+  },
+  "devDependencies": {
+    "stacktape": "^3.4.0"
+  }
+}
